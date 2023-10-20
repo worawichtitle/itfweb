@@ -1,0 +1,14 @@
+#website-title {
+    font-size: 128px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.red-text {
+    color: red;
+}
+
+#bored {
+    border: 20px red solid;
+    padding: 100px;
+}
