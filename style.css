@@ -1,14 +1,41 @@
+* {
+    
+    background-color: grey;
+    
+}
+
 #website-title {
-    font-size: 128px;
+    font-size: 64px;
+    text-align: left;
+    font-weight: bold;
+    color: gold;
+    padding: 5px;
+}
+
+#website-resume {
+    font-size: 24px;
     text-align: center;
     font-weight: bold;
 }
 
-.red-text {
-    color: red;
+.bt {
+    color: black;
+}
+
+.block {
+    margin-left: 200px;
 }
 
 #bored {
-    border: 20px red solid;
-    padding: 100px;
+    margin: 1%;
+    border: 20px gold solid;
+    align-self: center;
+    height: 500px;
+    width: 500px;
+}
+
+
+#contect {
+    align-items: center;
+    font-size: 64px;
 }
